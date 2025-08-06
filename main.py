@@ -25,5 +25,5 @@ def my_profile():
         "bootcamp": "FastAPI",
         "week": 1,
         "date": "2025",
-        "likes_fastapi": True              # ¿Te gustó FastAPI?
+        "likes_fastapi": True              
     }

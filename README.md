@@ -43,3 +43,9 @@ uvicorn main:app --reload --port 8000
 - Si Git no funciona: verificar `git config user.name` y `git config user.email`
 - Si necesitas cambiar el email: usar el email privado de GitHub desde Settings → Emails
 
+## aprendizajes adquiridos 
+
+- Aprendí sobre el uso de los typehints para la declaracion del tipo de datos de la variable 
+- Aprendí sobre como hacer un readme desde la interfaz de gitbash
+- Aprendí sobre como hacer documentacion automatica con fastapi y uvicorn 
+
