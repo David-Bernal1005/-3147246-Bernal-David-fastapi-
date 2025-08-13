@@ -49,3 +49,9 @@ uvicorn main:app --reload --port 8000
 - Aprendí sobre como hacer un readme desde la interfaz de gitbash
 - Aprendí sobre como hacer documentacion automatica con fastapi y uvicorn 
 
+## aprendizajes adquiridos 2
+- Esta semana aprendí a usar Pydantic para que la API valide los datos automáticamente, y eso hace que todo sea más seguro y menos propenso a errores. También puse type hints en las funciones, lo que me ayudó a entender mejor el código, y hice endpoints con parámetros que permiten buscar y filtrar información.
+
+- Me di cuenta de que usar Pydantic y type hints hace que el código sea más ordenado y fácil de cambiar después. Además, agregar parámetros en las rutas y en las consultas hace que la API sea más flexible y profesional, algo que no sabía antes.
+
+- mLo que más me gustó fue aprender a validar datos con Pydantic, porque así evito que la API reciba cosas raras o mal escritas. También hice endpoints que dejan buscar productos con filtros, lo que hace que la API sea más práctica y fácil de usar.
