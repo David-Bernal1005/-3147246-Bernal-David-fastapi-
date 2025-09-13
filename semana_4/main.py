@@ -1,3 +1,7 @@
+
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from fastapi import FastAPI, Depends ,HTTPException , status, Query
 from sqlalchemy.orm import Session
 from typing import List

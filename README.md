@@ -55,3 +55,12 @@ uvicorn main:app --reload --port 8000
 - Me di cuenta de que usar Pydantic y type hints hace que el código sea más ordenado y fácil de cambiar después. Además, agregar parámetros en las rutas y en las consultas hace que la API sea más flexible y profesional, algo que no sabía antes.
 
 - mLo que más me gustó fue aprender a validar datos con Pydantic, porque así evito que la API reciba cosas raras o mal escritas. También hice endpoints que dejan buscar productos con filtros, lo que hace que la API sea más práctica y fácil de usar.
+
+
+## aprendizajes adquiridos 6
+
+- Aprendí a crear y proteger endpoints CRUD en FastAPI  usando autenticación por token y roles de usuario.
+
+- Comprendí cómo estructurar modelos y esquemas con SQLAlchemy y Pydantic para validar datos de laboratorio clínico.
+
+- Practiqué la escritura de pruebas automatizadas para asegurar la seguridad y el correcto funcionamiento de la API.
